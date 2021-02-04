@@ -6,3 +6,4 @@
 - asda
 - asd
 - 
+`sudo mkdir`
